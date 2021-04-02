@@ -1,0 +1,15 @@
+.number__container {
+    width: 7vh;
+    height: 7vh;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 2px;
+    cursor: pointer;
+}
+.number__containerH1 {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}

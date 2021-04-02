@@ -1,0 +1,33 @@
+.calculator {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.calculator__containerNumbers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.calculator__container {
+    width: 30vh;
+    height: 60vh;
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+.calculator__containerInput {
+    padding-top: 20px;
+    height: 6vh;
+    width: 235px;
+    font-size: 35px;
+    color: white;
+    text-align: right;
+}
+.calculator__containerOperators {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
